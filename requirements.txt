@@ -1,0 +1,5 @@
+pyupbit
+pandas
+schedule
+requests
+python-dotenv
