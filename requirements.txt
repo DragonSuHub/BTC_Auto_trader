@@ -1,0 +1,4 @@
+pyupbit
+pandas
+schedule
+requests
